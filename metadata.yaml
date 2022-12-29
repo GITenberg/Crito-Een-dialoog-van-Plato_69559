@@ -5,6 +5,9 @@ contributor:
     agent_name: Noordewier, Michiel Jan
     gutenberg_agent_id: '55316'
     url: http://www.gutenberg.org/2009/agents/55316
+covers:
+- cover_type: archival
+  image_path: 69559-h/images/cover.png
 creator:
   author:
     agent_name: Plato
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/93
     wikipedia: https://en.wikipedia.org/wiki/Plato
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69559#Crito-Een-dialoog-van-Plato
 gutenberg_issued: '2022-12-16'
 identifiers:
   gutenberg: '69559'
